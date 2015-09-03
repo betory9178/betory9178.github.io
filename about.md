@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Neocosm Liang
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Weibo:[http://weibo.com/torsol/](http://weibo.com/torsol/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+E-mail:[betory9178@gmail.com](betory9178@gmail.com)
+
+State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University Address: No.19 Xinjiekouwai Street, Beijing, 100875, China, PR
