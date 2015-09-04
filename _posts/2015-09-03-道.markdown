@@ -14,5 +14,5 @@ categories: Docs
     前面的路充满了无数可能性，而对未知的好奇心正是自己最本质的东西，我会积极地怀着本心去努力探寻。
     即使没有没有足够优异的能力，但这条理想的路即便再艰辛都会满足欢喜。
     
-	[PIC]({{ site.url }}/assets/neon_void.jpg)
+	[PIC](/assets/neon_void.jpg)
 
