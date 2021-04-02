@@ -10,3 +10,5 @@ github_username:  betory9178
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
